@@ -1,4 +1,7 @@
 user git Ruben
+<<<<<<< HEAD
+mail git rbndavid@hotmail.com
+=======
 mail git rbndavid@hotmail.com
 
 superuser python aniware
@@ -8,6 +11,10 @@ ruben12345
 
 myvenv\Scripts\activate
 python manage.py runserver
+<<<<<<< HEAD
 
 
 Prueba
+=======
+>>>>>>> 31e8a87a52ff581219ef4b6ae0d8e3d7881a80f7
+>>>>>>> 3e03c3275b1cc12d48993f97126153ea3da639c7
